@@ -1,2 +1,1 @@
-# 9cc
-selfhost c compiler 
+# 9cc C compiler 
